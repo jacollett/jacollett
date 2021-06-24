@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacollett
-- 👀 I’m interested in Game Development & Web Application Development
-- 🌱 I’m currently learning Lua / Love
+- 👀 I’m interested in Data Analytics & Web Application Development
+- 🌱 I’m currently learning JS / Python
 
 
 <!---
